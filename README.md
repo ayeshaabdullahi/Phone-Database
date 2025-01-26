@@ -16,8 +16,8 @@ Furthermore, an ER-diagram was developed on draw.io with 8 entities and later re
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Make the tables, their variables, and their variable types: <br/>
+<img src="https://github.com/ayeshaabdullahi/Phone-Database/blob/main/githubtut(use%20this).png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
