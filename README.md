@@ -16,6 +16,14 @@ Furthermore, an ER-diagram was developed on draw.io with 8 entities and later re
 <h2>Program walk-through:</h2>
 
 <p align="center">
+Make an E-R Diagram:  <br/>
+<img src="https://github.com/ayeshaabdullahi/Phone-Database/blob/main/ER.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Make a Relational Model:  <br/>
+<img src="https://github.com/ayeshaabdullahi/Phone-Database/blob/main/ER.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 Make the tables, their variables, and their variable types: <br/>
 <img src="https://github.com/ayeshaabdullahi/Phone-Database/blob/main/githubtut(use%20this).png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
@@ -32,8 +40,8 @@ Share your findings in a Latex Report:  <br/>
 <img src="https://github.com/ayeshaabdullahi/Phone-Database/blob/main/LatexReport.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Make an E-R Diagram:  <br/>
+<img src="https://github.com/ayeshaabdullahi/Phone-Database/blob/main/ER.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Sanitization complete:  <br/>
