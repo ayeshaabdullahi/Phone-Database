@@ -24,8 +24,8 @@ Insert values for the variables:  <br/>
 <img src="https://github.com/ayeshaabdullahi/Phone-Database/blob/main/insert_values.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Create questions to analyze your data: <br/>
+<img src="https://github.com/ayeshaabdullahi/Phone-Database/blob/main/analysis.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Confirm your selection:  <br/>
