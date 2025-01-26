@@ -21,7 +21,7 @@ Make an E-R Diagram:  <br/>
 <br />
 <br />
 Make a Relational Model:  <br/>
-<img src="https://github.com/ayeshaabdullahi/Phone-Database/blob/main/ER.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/ayeshaabdullahi/Phone-Database/blob/main/Relational%20Model.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Make the tables, their variables, and their variable types: <br/>
@@ -38,18 +38,7 @@ Create questions to analyze your data: <br/>
 <br />
 Share your findings in a Latex Report:  <br/>
 <img src="https://github.com/ayeshaabdullahi/Phone-Database/blob/main/LatexReport.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Make an E-R Diagram:  <br/>
-<img src="https://github.com/ayeshaabdullahi/Phone-Database/blob/main/ER.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 
 <!--
