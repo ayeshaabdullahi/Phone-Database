@@ -28,8 +28,8 @@ Create questions to analyze your data: <br/>
 <img src="https://github.com/ayeshaabdullahi/Phone-Database/blob/main/analysis.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Share your findings in a Latex Report:  <br/>
+<img src="https://github.com/ayeshaabdullahi/Phone-Database/blob/main/LatexReport.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
